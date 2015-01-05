@@ -1,0 +1,24 @@
+nb:
+  spree:
+    account_no: Kontonr
+    add_details: Legg til opplysninger
+    additional_details: Andre opplysninger
+    back_to_banks_list: Tilbake til banklista
+    banks: Banker
+    bank_name: Bankens navn
+    confirm_details_submit: Er du sikker på at du vil lagre disse opplysningene? Du har ikke mulighet til å endre opplysningene senere. Trykk 'OK' for å bekrefte.
+    deactivate: Deaktiver
+    deposited_on: Innbetalt den
+    how_bank_transfer_works: Slik fungerer faktura
+    listing_banks: Banker
+    new_bank: Ny bank
+    only_show_orders_with_bank_transfer_payment_reference_number: Vis kun ordre med fakturanummer
+    payment_not_found: Ingen betaling registrert
+    payment_successfully_updated: Betaling registrert
+    payment_reference_details: Fakturaopplysninger
+    transaction_reference_no: Betalingsreferanse
+  activerecord:
+    models:
+      spree/bank:
+        one: Bank
+        other: Banker
